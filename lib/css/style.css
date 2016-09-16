@@ -1,0 +1,15 @@
+/*.strike{
+  text-decoration: line-through
+}*/
+.strike {
+  position: relative;
+}
+.strike::after {
+  border-bottom: 0.25em solid black;
+  content: "";
+  left: 0;
+  margin-top: calc(0.25em / 2 * -1);
+  position: absolute;
+  right: 0;
+  top: 50%;
+}

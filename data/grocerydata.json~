@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "completed": true,
+        "name": "Milk",
+        "date": "2016-02-02"
+    },
+    {
+        "id": 2,
+        "completed": true,
+        "name": "Chicken",
+        "date": "2016-03-02"
+    },
+    {
+        "id": 3,
+        "completed": true,
+        "name": "Cheese",
+        "date": "2016-03-04"
+    },
+    {
+        "id": 4,
+        "completed": true,
+        "name": "Honey",
+        "date": "2016-03-03"
+    },
+    {
+        "id": 5,
+        "completed": true,
+        "name": "Banana",
+        "date": "2016-03-05"
+    },
+    {
+        "id": 6,
+        "completed": true,
+        "name": "Apple",
+        "date": "2016-03-06"
+    },
+    {
+        "id": 7,
+        "completed": true,
+        "name": "Eggs",
+        "date": "2016-03-01"
+    }
+]

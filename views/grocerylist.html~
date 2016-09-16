@@ -1,0 +1,10 @@
+<div class="form-group">
+<a href="#/additem" style="font-weight:bold;" class="btn btn-info btn-block"><span class="glyphicon glyphicon-plus"></span>Add Item</a>
+</div>
+
+
+<ul class="list-group">
+<li class="list-group-item text-center clearfix" ng-repeat="item in itemList |orderBy:'date'">
+<gl-item-display></gl-item-display>
+</li>
+</ul>
